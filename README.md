@@ -32,17 +32,17 @@
 
 ## 🔗 Technologies used
 
-### FrontEnd :
+### 🔷 FrontEnd :
 - Html5:<br>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 - CSS3:<br>![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 - TailwindCSS:<br>![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 - Javascript:<br>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-### BackEnd :
+### 🔷 BackEnd :
 - PHP:<br>![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ### Database :
 - Database:<br>![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-## UI Preview
+## 🔷 UI Preview
 - Login <br><br><img width="666" alt="login" src="https://github.com/user-attachments/assets/3f13dc85-8e14-4464-bb1c-a52b7e72a6d1" />
 - Signup <br><br><img width="736" alt="register" src="https://github.com/user-attachments/assets/ac3419b7-74cb-492c-a91b-a338a4a1ac75" />
 - Admin Page <br><br><img width="959" alt="admin page" src="https://github.com/user-attachments/assets/959acb0a-1aca-4480-80b6-05a393184f41" />
