@@ -42,7 +42,7 @@
 ### Database :
 - Database:<br>![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 🔷 UI Preview
+## UI Preview
 - Login <br><br><img width="666" alt="login" src="https://github.com/user-attachments/assets/3f13dc85-8e14-4464-bb1c-a52b7e72a6d1" />
 - Signup <br><br><img width="736" alt="register" src="https://github.com/user-attachments/assets/ac3419b7-74cb-492c-a91b-a338a4a1ac75" />
 - Admin Page <br><br><img width="959" alt="admin page" src="https://github.com/user-attachments/assets/959acb0a-1aca-4480-80b6-05a393184f41" />
